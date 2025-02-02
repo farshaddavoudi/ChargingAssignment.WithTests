@@ -1,0 +1,5 @@
+The migraiton path is customized, so the first migration command should be as following:
+
+	>> Add-Migration -o Persistence/EFCore/Migrations {MigrationName}
+
+The subsequent migrations follow the above path and there is no need to repeat the o (outpout) flag
