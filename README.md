@@ -9,6 +9,9 @@ This project is a comprehensive assignment featuring robust unit, integration, a
 - Ensure all operations adhere to strict functional requirements.
 - Extensive testing coverage for all functionalities.
 
+## Domain:
+<img src="https://github.com/farshaddavoudi/ChargingAssignment.WithTests/blob/main/docs/domain-model.png" alt="domain-model">
+
 ## Functional Requirements
 1. Create, update, and remove Group/Charge Station/Connector.
 2. Removing a Group also removes all associated Charge Stations.
